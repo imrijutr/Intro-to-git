@@ -37,7 +37,7 @@
             $ sudo apt-get update
             $ sudo apt-get install git
             ```
-        - For `RPM based systems (Red Hat Entreprise Limited, openSUSE, Fedora, CentOS, Arch Linux)`
+        - For `RPM based systems (Red Hat Entreprise Linux, openSUSE, Fedora, CentOS, Arch Linux)`
             ```
             $sudo dnf install git-all
             ```
