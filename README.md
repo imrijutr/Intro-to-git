@@ -43,6 +43,7 @@
             ```
 
     To check whether git is installed or not
+    
     ```
     $ git --version 
      [it'll show your version of git]
