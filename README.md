@@ -32,13 +32,17 @@
     - For Windows users visit : [Git](http://git-scm.com) and download the new version of git. Installing procudures are same when you installing a software setup in windows machine 
     - For Linux Users, open up your terminal window (` Ctrl + Alt + T `) and type the following commands line by line
         - For `Debian based OS ( Ubuntu,Kubuntu,Lubuntu,Debian,Kali linux, etc)`
+
             ```
             $ sudo apt-get update
             $ sudo apt-get install git
             ```
         - For `RPM based systems (Red Hat Entreprise, openSUSE, Fedora, CentOS, Arch Linux)`
-    
+            ```
+            $sudo dnf install git-all
 
+            ```
+            
     To check whether git is installed or not
     ```
     $ git --version 
