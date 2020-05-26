@@ -40,9 +40,8 @@
         - For `RPM based systems (Red Hat Entreprise, openSUSE, Fedora, CentOS, Arch Linux)`
             ```
             $sudo dnf install git-all
-
             ```
-            
+
     To check whether git is installed or not
     ```
     $ git --version 
