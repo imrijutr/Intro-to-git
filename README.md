@@ -30,7 +30,7 @@
 
 - Installing git own your local machine,
     - For Windows users visit : [Git](http://git-scm.com) and download the new version of git. Installing procudures are same when you installing a software setup in windows machine 
-    - For Linux Users, open up your terminal window and type the following commands line by line
+    - For Linux Users, open up your terminal window (` Ctrl + Alt + T `) and type the following commands line by line
     ```
     $ sudo apt-get update
     $ sudo apt-get install git
