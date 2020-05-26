@@ -37,13 +37,13 @@
             $ sudo apt-get update
             $ sudo apt-get install git
             ```
-        - For `RPM based systems (Red Hat Entreprise, openSUSE, Fedora, CentOS, Arch Linux)`
+        - For `RPM based systems (Red Hat Entreprise Limited, openSUSE, Fedora, CentOS, Arch Linux)`
             ```
             $sudo dnf install git-all
             ```
 
     To check whether git is installed or not
-    
+
     ```
     $ git --version 
      [it'll show your version of git]
