@@ -28,8 +28,9 @@
 
 - **How to start with git ?** 
 
-> For installing git own your local machine,
+> What for installing git own your local machine,
 > - For Windows users visit : [Git](http://git-scm.com) and download the new version of git. Use the setup downloaded and install which you are installing normal applications in your windows machine.
+
 
 
 
