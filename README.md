@@ -1,26 +1,7 @@
 # **Introduction to Git and GitHub**
 ## This content is developed for **SkillUPxJEC** - Skill bootcamp conducted by Innovation & Entrepreneurship Development Cell of Jyothi Engineering College, Cheruthuruthy, Thrissur
 ## 
-This site was built using [GitHub Pages](https://pages.github.com/).
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
-- George Washington
-- John Adams
-- Thomas Jefferson
-1. First list item
-   - First nested list item
-     - Second nested list item
+- What is Git ?
+> Git is a distributed version-control system for tracking changes in source code during software development .It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed,[9] data integrity,and support for distributed, non-linear workflows.
 
-
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
-
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
-
-
+- What is GitHub?
