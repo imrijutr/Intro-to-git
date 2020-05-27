@@ -1,3 +1,4 @@
+
 # **Introduction to Git and GitHub**
 #### This content is developed for **SkillUPxJEC** - Skill bootcamp conducted by Innovation & Entrepreneurship Development Cell of Jyothi Engineering College, Cheruthuruthy, Thrissur
 ## 
@@ -48,7 +49,7 @@
     $ git --version 
      [it'll show your version of git]
     ```
- 
-
-
-
+ - **First things first - Config Git with Username and User Email**
+ > In Linux terminal or Windows Command prompt enter the following commands with your details
+ ```	$ git config --global user.name "YourNameGoesHere" ```
+```  $ git config --global user.email "YourEmailGoesHere"```
