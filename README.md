@@ -53,13 +53,13 @@
             
     > In Linux terminal or Windows Command prompt enter the following commands with your details
         
-        ``` 
+        
         $ git config --global user.name "YourNameGoesHere"
-        ```
+        
              
-        ```
+        
         $ git config --global user.email "YourEmailGoesHere"
-        ```
+        
  
 - **Basic Git Commands and uses**
 
