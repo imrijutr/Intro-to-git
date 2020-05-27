@@ -13,9 +13,9 @@
 
 ### Offical documentations of Git & GitHub
 
-> -[Git](http://git-scm.com)
+> - [Git](http://git-scm.com)
 
-> -[GitHub](http://github.com)
+> - [GitHub](http://github.com)
 
 - **For Git & GitHub is used in SkillUPxJEC ?**
 
@@ -55,9 +55,6 @@
         
         
         $ git config --global user.name "YourNameGoesHere"
-        
-             
-        
         $ git config --global user.email "YourEmailGoesHere"
         
  
