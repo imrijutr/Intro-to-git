@@ -1,4 +1,3 @@
-
 # **Introduction to Git and GitHub**
 #### This content is developed for **SkillUPxJEC** - Skill bootcamp conducted by Innovation & Entrepreneurship Development Cell of Jyothi Engineering College, Cheruthuruthy, Thrissur
 ## 
@@ -49,17 +48,27 @@
     $ git --version 
      [it'll show your version of git]
     ```
- - **First things first - Config Git with Username and User Email**
+    
+- **First things first - Config Git with Username and User Email**
             
- > In Linux terminal or Windows Command prompt enter the following commands with your details
+    > In Linux terminal or Windows Command prompt enter the following commands with your details
         
-             ` $ git config --global user.name "YourNameGoesHere" `
+        ``` 
+        $ git config --global user.name "YourNameGoesHere"
+        ```
              
-             ` $ git config --global user.email "YourEmailGoesHere"`
+        ```
+        $ git config --global user.email "YourEmailGoesHere"
+        ```
  
- - **Basic Git Commands and uses**
-![include Akshay: Pulling the remote Git Repository and overriding ...](https://1.bp.blogspot.com/--uNcah6YUSw/UZaB5xCzMNI/AAAAAAAAAhs/khSzRB0MIkc/s1600/git_everthing_is_local.png) 
- - **Git Working Model**
- ![git conceptual model](https://bootcamp.burlingtoncodeacademy.com/images/git.png)
+- **Basic Git Commands and uses**
+
+    > ![include Akshay: Pulling the remote Git Repository and overriding ...](https://1.bp.blogspot.com/--uNcah6YUSw/UZaB5xCzMNI/AAAAAAAAAhs/khSzRB0MIkc/s1600/git_everthing_is_local.png) 
+    
+- **Git Working Model**
+
+    > ![git conceptual model](https://bootcamp.burlingtoncodeacademy.com/images/git.png)
+    
 - **Remote Git Repository** aka **Github**
->![Managing Your Files](https://infx-web-win17.github.io/tutorials/managing-files/img/github.png)
+
+    > ![Managing Your Files](https://infx-web-win17.github.io/tutorials/managing-files/img/github.png)
